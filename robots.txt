@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://X0nic.github.com/sitemap.xml 
