@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://X0nic.github.com/atom.xml" rel="self"/>
   <link href="http://X0nic.github.com/"/>
-  <updated>2013-02-07T20:51:49-07:00</updated>
+  <updated>2013-02-07T20:55:49-07:00</updated>
   <id>http://X0nic.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome]]></title>
+    <link href="http://X0nic.github.com/blog/2013/02/07/welcome/"/>
+    <updated>2013-02-07T20:53:00-07:00</updated>
+    <id>http://X0nic.github.com/blog/2013/02/07/welcome</id>
+    <content type="html"><![CDATA[<p>Testing out Octopress. Lets see how ths goes.</p>
+]]></content>
+  </entry>
   
 </feed>
